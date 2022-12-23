@@ -81,7 +81,7 @@ This is page 2
 
 # 8- Links And Hyperlinks
 
-<https://www.fiverr.com/junaidthaheem?up_rollout=true#!>
+
 
 [The ply list of python ka chila click hera](https://www.youtube.com/watch?v=qJqAXjz-Rh4&t=1074s)
 
